@@ -1,0 +1,783 @@
+{
+  "source": "microsoft/skills",
+  "repository": "https://github.com/microsoft/skills",
+  "license": "MIT",
+  "synced_skills": 129,
+  "skills": [
+    {
+      "path": "java/foundry/formrecognizer",
+      "name": "formrecognizer",
+      "category": "java/foundry",
+      "source": ".github/skills/azure-ai-formrecognizer-java"
+    },
+    {
+      "path": "java/foundry/vision-imageanalysis",
+      "name": "vision-imageanalysis",
+      "category": "java/foundry",
+      "source": ".github/skills/azure-ai-vision-imageanalysis-java"
+    },
+    {
+      "path": "java/foundry/voicelive",
+      "name": "voicelive",
+      "category": "java/foundry",
+      "source": ".github/skills/azure-ai-voicelive-java"
+    },
+    {
+      "path": "java/foundry/contentsafety",
+      "name": "contentsafety",
+      "category": "java/foundry",
+      "source": ".github/skills/azure-ai-contentsafety-java"
+    },
+    {
+      "path": "java/foundry/projects",
+      "name": "projects",
+      "category": "java/foundry",
+      "source": ".github/skills/azure-ai-projects-java"
+    },
+    {
+      "path": "java/foundry/anomalydetector",
+      "name": "anomalydetector",
+      "category": "java/foundry",
+      "source": ".github/skills/azure-ai-anomalydetector-java"
+    },
+    {
+      "path": "java/monitoring/ingestion",
+      "name": "ingestion",
+      "category": "java/monitoring",
+      "source": ".github/skills/azure-monitor-ingestion-java"
+    },
+    {
+      "path": "java/monitoring/query",
+      "name": "query",
+      "category": "java/monitoring",
+      "source": ".github/skills/azure-monitor-query-java"
+    },
+    {
+      "path": "java/monitoring/opentelemetry-exporter",
+      "name": "opentelemetry-exporter",
+      "category": "java/monitoring",
+      "source": ".github/skills/azure-monitor-opentelemetry-exporter-java"
+    },
+    {
+      "path": "java/integration/appconfiguration",
+      "name": "appconfiguration",
+      "category": "java/integration",
+      "source": ".github/skills/azure-appconfiguration-java"
+    },
+    {
+      "path": "java/communication/common",
+      "name": "common",
+      "category": "java/communication",
+      "source": ".github/skills/azure-communication-common-java"
+    },
+    {
+      "path": "java/communication/callingserver",
+      "name": "callingserver",
+      "category": "java/communication",
+      "source": ".github/skills/azure-communication-callingserver-java"
+    },
+    {
+      "path": "java/communication/sms",
+      "name": "sms",
+      "category": "java/communication",
+      "source": ".github/skills/azure-communication-sms-java"
+    },
+    {
+      "path": "java/communication/callautomation",
+      "name": "callautomation",
+      "category": "java/communication",
+      "source": ".github/skills/azure-communication-callautomation-java"
+    },
+    {
+      "path": "java/communication/chat",
+      "name": "chat",
+      "category": "java/communication",
+      "source": ".github/skills/azure-communication-chat-java"
+    },
+    {
+      "path": "java/compute/batch",
+      "name": "batch",
+      "category": "java/compute",
+      "source": ".github/skills/azure-compute-batch-java"
+    },
+    {
+      "path": "java/entra/azure-identity",
+      "name": "azure-identity",
+      "category": "java/entra",
+      "source": ".github/skills/azure-identity-java"
+    },
+    {
+      "path": "java/entra/keyvault-keys",
+      "name": "keyvault-keys",
+      "category": "java/entra",
+      "source": ".github/skills/azure-security-keyvault-keys-java"
+    },
+    {
+      "path": "java/entra/keyvault-secrets",
+      "name": "keyvault-secrets",
+      "category": "java/entra",
+      "source": ".github/skills/azure-security-keyvault-secrets-java"
+    },
+    {
+      "path": "java/messaging/eventgrid",
+      "name": "eventgrid",
+      "category": "java/messaging",
+      "source": ".github/skills/azure-eventgrid-java"
+    },
+    {
+      "path": "java/messaging/webpubsub",
+      "name": "webpubsub",
+      "category": "java/messaging",
+      "source": ".github/skills/azure-messaging-webpubsub-java"
+    },
+    {
+      "path": "java/messaging/eventhubs",
+      "name": "eventhubs",
+      "category": "java/messaging",
+      "source": ".github/skills/azure-eventhub-java"
+    },
+    {
+      "path": "java/data/tables",
+      "name": "tables",
+      "category": "java/data",
+      "source": ".github/skills/azure-data-tables-java"
+    },
+    {
+      "path": "java/data/cosmos",
+      "name": "cosmos",
+      "category": "java/data",
+      "source": ".github/skills/azure-cosmos-java"
+    },
+    {
+      "path": "java/data/blob",
+      "name": "blob",
+      "category": "java/data",
+      "source": ".github/skills/azure-storage-blob-java"
+    },
+    {
+      "path": "python/foundry/speech-to-text-rest",
+      "name": "speech-to-text-rest",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-speech-to-text-rest-py"
+    },
+    {
+      "path": "python/foundry/transcription",
+      "name": "transcription",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-transcription-py"
+    },
+    {
+      "path": "python/foundry/vision-imageanalysis",
+      "name": "vision-imageanalysis",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-vision-imageanalysis-py"
+    },
+    {
+      "path": "python/foundry/contentunderstanding",
+      "name": "contentunderstanding",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-contentunderstanding-py"
+    },
+    {
+      "path": "python/foundry/voicelive",
+      "name": "voicelive",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-voicelive-py"
+    },
+    {
+      "path": "python/foundry/agent-framework",
+      "name": "agent-framework",
+      "category": "python/foundry",
+      "source": ".github/skills/agent-framework-azure-ai-py"
+    },
+    {
+      "path": "python/foundry/contentsafety",
+      "name": "contentsafety",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-contentsafety-py"
+    },
+    {
+      "path": "python/foundry/agents-v2",
+      "name": "agents-v2",
+      "category": "python/foundry",
+      "source": ".github/skills/agents-v2-py"
+    },
+    {
+      "path": "python/foundry/translation-document",
+      "name": "translation-document",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-translation-document-py"
+    },
+    {
+      "path": "python/foundry/translation-text",
+      "name": "translation-text",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-translation-text-py"
+    },
+    {
+      "path": "python/foundry/textanalytics",
+      "name": "textanalytics",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-textanalytics-py"
+    },
+    {
+      "path": "python/foundry/ml",
+      "name": "ml",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-ml-py"
+    },
+    {
+      "path": "python/foundry/projects",
+      "name": "projects",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-ai-projects-py"
+    },
+    {
+      "path": "python/foundry/search-documents",
+      "name": "search-documents",
+      "category": "python/foundry",
+      "source": ".github/skills/azure-search-documents-py"
+    },
+    {
+      "path": "python/monitoring/opentelemetry",
+      "name": "opentelemetry",
+      "category": "python/monitoring",
+      "source": ".github/skills/azure-monitor-opentelemetry-py"
+    },
+    {
+      "path": "python/monitoring/ingestion",
+      "name": "ingestion",
+      "category": "python/monitoring",
+      "source": ".github/skills/azure-monitor-ingestion-py"
+    },
+    {
+      "path": "python/monitoring/query",
+      "name": "query",
+      "category": "python/monitoring",
+      "source": ".github/skills/azure-monitor-query-py"
+    },
+    {
+      "path": "python/monitoring/opentelemetry-exporter",
+      "name": "opentelemetry-exporter",
+      "category": "python/monitoring",
+      "source": ".github/skills/azure-monitor-opentelemetry-exporter-py"
+    },
+    {
+      "path": "python/m365/m365-agents",
+      "name": "m365-agents",
+      "category": "python/m365",
+      "source": ".github/skills/m365-agents-py"
+    },
+    {
+      "path": "python/integration/appconfiguration",
+      "name": "appconfiguration",
+      "category": "python/integration",
+      "source": ".github/skills/azure-appconfiguration-py"
+    },
+    {
+      "path": "python/integration/apimanagement",
+      "name": "apimanagement",
+      "category": "python/integration",
+      "source": ".github/skills/azure-mgmt-apimanagement-py"
+    },
+    {
+      "path": "python/integration/apicenter",
+      "name": "apicenter",
+      "category": "python/integration",
+      "source": ".github/skills/azure-mgmt-apicenter-py"
+    },
+    {
+      "path": "python/compute/fabric",
+      "name": "fabric",
+      "category": "python/compute",
+      "source": ".github/skills/azure-mgmt-fabric-py"
+    },
+    {
+      "path": "python/compute/botservice",
+      "name": "botservice",
+      "category": "python/compute",
+      "source": ".github/skills/azure-mgmt-botservice-py"
+    },
+    {
+      "path": "python/compute/containerregistry",
+      "name": "containerregistry",
+      "category": "python/compute",
+      "source": ".github/skills/azure-containerregistry-py"
+    },
+    {
+      "path": "python/entra/azure-identity",
+      "name": "azure-identity",
+      "category": "python/entra",
+      "source": ".github/skills/azure-identity-py"
+    },
+    {
+      "path": "python/entra/keyvault",
+      "name": "keyvault",
+      "category": "python/entra",
+      "source": ".github/skills/azure-keyvault-py"
+    },
+    {
+      "path": "python/messaging/eventgrid",
+      "name": "eventgrid",
+      "category": "python/messaging",
+      "source": ".github/skills/azure-eventgrid-py"
+    },
+    {
+      "path": "python/messaging/servicebus",
+      "name": "servicebus",
+      "category": "python/messaging",
+      "source": ".github/skills/azure-servicebus-py"
+    },
+    {
+      "path": "python/messaging/webpubsub-service",
+      "name": "webpubsub-service",
+      "category": "python/messaging",
+      "source": ".github/skills/azure-messaging-webpubsubservice-py"
+    },
+    {
+      "path": "python/messaging/eventhub",
+      "name": "eventhub",
+      "category": "python/messaging",
+      "source": ".github/skills/azure-eventhub-py"
+    },
+    {
+      "path": "python/data/tables",
+      "name": "tables",
+      "category": "python/data",
+      "source": ".github/skills/azure-data-tables-py"
+    },
+    {
+      "path": "python/data/cosmos",
+      "name": "cosmos",
+      "category": "python/data",
+      "source": ".github/skills/azure-cosmos-py"
+    },
+    {
+      "path": "python/data/blob",
+      "name": "blob",
+      "category": "python/data",
+      "source": ".github/skills/azure-storage-blob-py"
+    },
+    {
+      "path": "python/data/datalake",
+      "name": "datalake",
+      "category": "python/data",
+      "source": ".github/skills/azure-storage-file-datalake-py"
+    },
+    {
+      "path": "python/data/cosmos-db",
+      "name": "cosmos-db",
+      "category": "python/data",
+      "source": ".github/skills/azure-cosmos-db-py"
+    },
+    {
+      "path": "python/data/queue",
+      "name": "queue",
+      "category": "python/data",
+      "source": ".github/skills/azure-storage-queue-py"
+    },
+    {
+      "path": "python/data/fileshare",
+      "name": "fileshare",
+      "category": "python/data",
+      "source": ".github/skills/azure-storage-file-share-py"
+    },
+    {
+      "path": "typescript/foundry/voicelive",
+      "name": "voicelive",
+      "category": "typescript/foundry",
+      "source": ".github/skills/azure-ai-voicelive-ts"
+    },
+    {
+      "path": "typescript/foundry/contentsafety",
+      "name": "contentsafety",
+      "category": "typescript/foundry",
+      "source": ".github/skills/azure-ai-contentsafety-ts"
+    },
+    {
+      "path": "typescript/foundry/document-intelligence",
+      "name": "document-intelligence",
+      "category": "typescript/foundry",
+      "source": ".github/skills/azure-ai-document-intelligence-ts"
+    },
+    {
+      "path": "typescript/foundry/projects",
+      "name": "projects",
+      "category": "typescript/foundry",
+      "source": ".github/skills/azure-ai-projects-ts"
+    },
+    {
+      "path": "typescript/foundry/search-documents",
+      "name": "search-documents",
+      "category": "typescript/foundry",
+      "source": ".github/skills/azure-search-documents-ts"
+    },
+    {
+      "path": "typescript/foundry/translation",
+      "name": "translation",
+      "category": "typescript/foundry",
+      "source": ".github/skills/azure-ai-translation-ts"
+    },
+    {
+      "path": "typescript/monitoring/opentelemetry",
+      "name": "opentelemetry",
+      "category": "typescript/monitoring",
+      "source": ".github/skills/azure-monitor-opentelemetry-ts"
+    },
+    {
+      "path": "typescript/frontend/zustand-store",
+      "name": "zustand-store",
+      "category": "typescript/frontend",
+      "source": ".github/skills/zustand-store-ts"
+    },
+    {
+      "path": "typescript/frontend/frontend-ui-dark",
+      "name": "frontend-ui-dark",
+      "category": "typescript/frontend",
+      "source": ".github/skills/frontend-ui-dark-ts"
+    },
+    {
+      "path": "typescript/frontend/react-flow-node",
+      "name": "react-flow-node",
+      "category": "typescript/frontend",
+      "source": ".github/skills/react-flow-node-ts"
+    },
+    {
+      "path": "typescript/m365/m365-agents",
+      "name": "m365-agents",
+      "category": "typescript/m365",
+      "source": ".github/skills/m365-agents-ts"
+    },
+    {
+      "path": "typescript/integration/appconfiguration",
+      "name": "appconfiguration",
+      "category": "typescript/integration",
+      "source": ".github/skills/azure-appconfiguration-ts"
+    },
+    {
+      "path": "typescript/compute/playwright",
+      "name": "playwright",
+      "category": "typescript/compute",
+      "source": ".github/skills/azure-microsoft-playwright-testing-ts"
+    },
+    {
+      "path": "typescript/entra/azure-identity",
+      "name": "azure-identity",
+      "category": "typescript/entra",
+      "source": ".github/skills/azure-identity-ts"
+    },
+    {
+      "path": "typescript/entra/keyvault-keys",
+      "name": "keyvault-keys",
+      "category": "typescript/entra",
+      "source": ".github/skills/azure-keyvault-keys-ts"
+    },
+    {
+      "path": "typescript/entra/keyvault-secrets",
+      "name": "keyvault-secrets",
+      "category": "typescript/entra",
+      "source": ".github/skills/azure-keyvault-secrets-ts"
+    },
+    {
+      "path": "typescript/messaging/servicebus",
+      "name": "servicebus",
+      "category": "typescript/messaging",
+      "source": ".github/skills/azure-servicebus-ts"
+    },
+    {
+      "path": "typescript/messaging/webpubsub",
+      "name": "webpubsub",
+      "category": "typescript/messaging",
+      "source": ".github/skills/azure-web-pubsub-ts"
+    },
+    {
+      "path": "typescript/messaging/eventhubs",
+      "name": "eventhubs",
+      "category": "typescript/messaging",
+      "source": ".github/skills/azure-eventhub-ts"
+    },
+    {
+      "path": "typescript/data/cosmosdb",
+      "name": "cosmosdb",
+      "category": "typescript/data",
+      "source": ".github/skills/azure-cosmos-ts"
+    },
+    {
+      "path": "typescript/data/blob",
+      "name": "blob",
+      "category": "typescript/data",
+      "source": ".github/skills/azure-storage-blob-ts"
+    },
+    {
+      "path": "typescript/data/postgres",
+      "name": "postgres",
+      "category": "typescript/data",
+      "source": ".github/skills/azure-postgres-ts"
+    },
+    {
+      "path": "typescript/data/queue",
+      "name": "queue",
+      "category": "typescript/data",
+      "source": ".github/skills/azure-storage-queue-ts"
+    },
+    {
+      "path": "typescript/data/fileshare",
+      "name": "fileshare",
+      "category": "typescript/data",
+      "source": ".github/skills/azure-storage-file-share-ts"
+    },
+    {
+      "path": "rust/entra/azure-keyvault-keys-rust",
+      "name": "azure-keyvault-keys-rust",
+      "category": "rust/entra",
+      "source": ".github/skills/azure-keyvault-keys-rust"
+    },
+    {
+      "path": "rust/entra/azure-keyvault-secrets-rust",
+      "name": "azure-keyvault-secrets-rust",
+      "category": "rust/entra",
+      "source": ".github/skills/azure-keyvault-secrets-rust"
+    },
+    {
+      "path": "rust/entra/azure-identity-rust",
+      "name": "azure-identity-rust",
+      "category": "rust/entra",
+      "source": ".github/skills/azure-identity-rust"
+    },
+    {
+      "path": "rust/entra/azure-keyvault-certificates-rust",
+      "name": "azure-keyvault-certificates-rust",
+      "category": "rust/entra",
+      "source": ".github/skills/azure-keyvault-certificates-rust"
+    },
+    {
+      "path": "rust/messaging/azure-eventhub-rust",
+      "name": "azure-eventhub-rust",
+      "category": "rust/messaging",
+      "source": ".github/skills/azure-eventhub-rust"
+    },
+    {
+      "path": "rust/data/azure-cosmos-rust",
+      "name": "azure-cosmos-rust",
+      "category": "rust/data",
+      "source": ".github/skills/azure-cosmos-rust"
+    },
+    {
+      "path": "rust/data/azure-storage-blob-rust",
+      "name": "azure-storage-blob-rust",
+      "category": "rust/data",
+      "source": ".github/skills/azure-storage-blob-rust"
+    },
+    {
+      "path": "dotnet/foundry/voicelive",
+      "name": "voicelive",
+      "category": "dotnet/foundry",
+      "source": ".github/skills/azure-ai-voicelive-dotnet"
+    },
+    {
+      "path": "dotnet/foundry/document-intelligence",
+      "name": "document-intelligence",
+      "category": "dotnet/foundry",
+      "source": ".github/skills/azure-ai-document-intelligence-dotnet"
+    },
+    {
+      "path": "dotnet/foundry/openai",
+      "name": "openai",
+      "category": "dotnet/foundry",
+      "source": ".github/skills/azure-ai-openai-dotnet"
+    },
+    {
+      "path": "dotnet/foundry/weightsandbiases",
+      "name": "weightsandbiases",
+      "category": "dotnet/foundry",
+      "source": ".github/skills/azure-mgmt-weightsandbiases-dotnet"
+    },
+    {
+      "path": "dotnet/foundry/projects",
+      "name": "projects",
+      "category": "dotnet/foundry",
+      "source": ".github/skills/azure-ai-projects-dotnet"
+    },
+    {
+      "path": "dotnet/foundry/search-documents",
+      "name": "search-documents",
+      "category": "dotnet/foundry",
+      "source": ".github/skills/azure-search-documents-dotnet"
+    },
+    {
+      "path": "dotnet/monitoring/applicationinsights",
+      "name": "applicationinsights",
+      "category": "dotnet/monitoring",
+      "source": ".github/skills/azure-mgmt-applicationinsights-dotnet"
+    },
+    {
+      "path": "dotnet/m365/m365-agents",
+      "name": "m365-agents",
+      "category": "dotnet/m365",
+      "source": ".github/skills/m365-agents-dotnet"
+    },
+    {
+      "path": "dotnet/integration/apimanagement",
+      "name": "apimanagement",
+      "category": "dotnet/integration",
+      "source": ".github/skills/azure-mgmt-apimanagement-dotnet"
+    },
+    {
+      "path": "dotnet/integration/apicenter",
+      "name": "apicenter",
+      "category": "dotnet/integration",
+      "source": ".github/skills/azure-mgmt-apicenter-dotnet"
+    },
+    {
+      "path": "dotnet/compute/playwright",
+      "name": "playwright",
+      "category": "dotnet/compute",
+      "source": ".github/skills/azure-resource-manager-playwright-dotnet"
+    },
+    {
+      "path": "dotnet/compute/durabletask",
+      "name": "durabletask",
+      "category": "dotnet/compute",
+      "source": ".github/skills/azure-resource-manager-durabletask-dotnet"
+    },
+    {
+      "path": "dotnet/compute/botservice",
+      "name": "botservice",
+      "category": "dotnet/compute",
+      "source": ".github/skills/azure-mgmt-botservice-dotnet"
+    },
+    {
+      "path": "dotnet/entra/azure-identity",
+      "name": "azure-identity",
+      "category": "dotnet/entra",
+      "source": ".github/skills/azure-identity-dotnet"
+    },
+    {
+      "path": "dotnet/entra/authentication-events",
+      "name": "authentication-events",
+      "category": "dotnet/entra",
+      "source": ".github/skills/microsoft-azure-webjobs-extensions-authentication-events-dotnet"
+    },
+    {
+      "path": "dotnet/entra/keyvault",
+      "name": "keyvault",
+      "category": "dotnet/entra",
+      "source": ".github/skills/azure-security-keyvault-keys-dotnet"
+    },
+    {
+      "path": "dotnet/general/maps",
+      "name": "maps",
+      "category": "dotnet/general",
+      "source": ".github/skills/azure-maps-search-dotnet"
+    },
+    {
+      "path": "dotnet/messaging/eventgrid",
+      "name": "eventgrid",
+      "category": "dotnet/messaging",
+      "source": ".github/skills/azure-eventgrid-dotnet"
+    },
+    {
+      "path": "dotnet/messaging/servicebus",
+      "name": "servicebus",
+      "category": "dotnet/messaging",
+      "source": ".github/skills/azure-servicebus-dotnet"
+    },
+    {
+      "path": "dotnet/messaging/eventhubs",
+      "name": "eventhubs",
+      "category": "dotnet/messaging",
+      "source": ".github/skills/azure-eventhub-dotnet"
+    },
+    {
+      "path": "dotnet/data/redis",
+      "name": "redis",
+      "category": "dotnet/data",
+      "source": ".github/skills/azure-resource-manager-redis-dotnet"
+    },
+    {
+      "path": "dotnet/data/postgresql",
+      "name": "postgresql",
+      "category": "dotnet/data",
+      "source": ".github/skills/azure-resource-manager-postgresql-dotnet"
+    },
+    {
+      "path": "dotnet/data/mysql",
+      "name": "mysql",
+      "category": "dotnet/data",
+      "source": ".github/skills/azure-resource-manager-mysql-dotnet"
+    },
+    {
+      "path": "dotnet/data/cosmosdb",
+      "name": "cosmosdb",
+      "category": "dotnet/data",
+      "source": ".github/skills/azure-resource-manager-cosmosdb-dotnet"
+    },
+    {
+      "path": "dotnet/data/fabric",
+      "name": "fabric",
+      "category": "dotnet/data",
+      "source": ".github/skills/azure-mgmt-fabric-dotnet"
+    },
+    {
+      "path": "dotnet/data/sql",
+      "name": "sql",
+      "category": "dotnet/data",
+      "source": ".github/skills/azure-resource-manager-sql-dotnet"
+    },
+    {
+      "path": "dotnet/partner/arize-ai-observability-eval",
+      "name": "arize-ai-observability-eval",
+      "category": "dotnet/partner",
+      "source": ".github/skills/azure-mgmt-arizeaiobservabilityeval-dotnet"
+    },
+    {
+      "path": "dotnet/partner/mongodbatlas",
+      "name": "mongodbatlas",
+      "category": "dotnet/partner",
+      "source": ".github/skills/azure-mgmt-mongodbatlas-dotnet"
+    },
+    {
+      "path": "plugins/wiki-page-writer",
+      "name": "wiki-page-writer",
+      "category": "plugins",
+      "source": ".github/plugins/deep-wiki/skills/wiki-page-writer"
+    },
+    {
+      "path": "plugins/wiki-vitepress",
+      "name": "wiki-vitepress",
+      "category": "plugins",
+      "source": ".github/plugins/deep-wiki/skills/wiki-vitepress"
+    },
+    {
+      "path": "plugins/wiki-researcher",
+      "name": "wiki-researcher",
+      "category": "plugins",
+      "source": ".github/plugins/deep-wiki/skills/wiki-researcher"
+    },
+    {
+      "path": "plugins/wiki-qa",
+      "name": "wiki-qa",
+      "category": "plugins",
+      "source": ".github/plugins/deep-wiki/skills/wiki-qa"
+    },
+    {
+      "path": "plugins/wiki-onboarding",
+      "name": "wiki-onboarding",
+      "category": "plugins",
+      "source": ".github/plugins/deep-wiki/skills/wiki-onboarding"
+    },
+    {
+      "path": "plugins/wiki-architect",
+      "name": "wiki-architect",
+      "category": "plugins",
+      "source": ".github/plugins/deep-wiki/skills/wiki-architect"
+    },
+    {
+      "path": "plugins/wiki-changelog",
+      "name": "wiki-changelog",
+      "category": "plugins",
+      "source": ".github/plugins/deep-wiki/skills/wiki-changelog"
+    }
+  ],
+  "note": "Symlinks resolved and content copied for compatibility. Original directory structure preserved."
+}
