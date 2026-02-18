@@ -7,6 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [5.7.0] - 2026-02-18 - "Yandex Direct Audit"
+
+> **First agentic skill for the Russian PPC market, offering comprehensive Yandex Direct account auditing.**
+
+### Added
+
+- **New External Skill**: `yandex-direct-audit` (Silverov/yandex-direct-skill)
+  - 55 automated checks for Yandex Direct (API v5).
+  - A-F scoring system.
+  - Comprehensive campaign, ad, and keyword analysis.
+
+### Registry
+
+- **Total Skills**: 864.
+- **Generated Files**: Synced artifacts.
+
+### Credits
+
+- **[@Silverov](https://github.com/Silverov)** - Yandex Direct Audit skill (PR #95).
+
+---
+
 ## [5.6.0] - 2026-02-17 - "Autonomous Agents & Trusted Workflows"
 
 > **DBOS for reliable workflows, Crypto BD agents, and improved usage documentation.**
