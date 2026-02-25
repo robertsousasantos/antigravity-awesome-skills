@@ -1,7 +1,60 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 931,
+  "total": 944,
   "skills": [
+    {
+      "id": "00-andruia-consultant",
+      "name": "00-andruia-consultant",
+      "description": "Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español.",
+      "category": "general",
+      "tags": [
+        "00",
+        "andruia",
+        "consultant"
+      ],
+      "triggers": [
+        "00",
+        "andruia",
+        "consultant",
+        "arquitecto",
+        "de",
+        "soluciones",
+        "principal",
+        "consultor",
+        "tecnol",
+        "gico",
+        "andru",
+        "ia"
+      ],
+      "path": "skills/00-andruia-consultant/SKILL.md"
+    },
+    {
+      "id": "20-andruia-niche-intelligence",
+      "name": "20-andruia-niche-intelligence",
+      "description": "Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho específico de un proyecto para inyectar conocimientos, regulaciones y estándares únicos del sector. Actívalo tras definir el nicho.",
+      "category": "general",
+      "tags": [
+        "20",
+        "andruia",
+        "niche",
+        "intelligence"
+      ],
+      "triggers": [
+        "20",
+        "andruia",
+        "niche",
+        "intelligence",
+        "estratega",
+        "de",
+        "inteligencia",
+        "dominio",
+        "andru",
+        "ia",
+        "analiza",
+        "el"
+      ],
+      "path": "skills/20-andruia-niche-intelligence/SKILL.md"
+    },
     {
       "id": "3d-web-experience",
       "name": "3d-web-experience",
@@ -1168,6 +1221,30 @@
         "apple"
       ],
       "path": "skills/app-store-optimization/SKILL.md"
+    },
+    {
+      "id": "appdeploy",
+      "name": "appdeploy",
+      "description": "Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses HTTP API via curl.",
+      "category": "data-ai",
+      "tags": [
+        "appdeploy"
+      ],
+      "triggers": [
+        "appdeploy",
+        "deploy",
+        "web",
+        "apps",
+        "backend",
+        "apis",
+        "database",
+        "file",
+        "storage",
+        "user",
+        "asks",
+        "publish"
+      ],
+      "path": "skills/appdeploy/SKILL.md"
     },
     {
       "id": "application-performance-performance-optimization",
@@ -5220,6 +5297,31 @@
       "path": "skills/canvas-design/SKILL.md"
     },
     {
+      "id": "carrier-relationship-management",
+      "name": "carrier-relationship-management",
+      "description": "Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic carrier relationships. Informed by transportation managers with 15+ years experience. Includes scorecarding frameworks, RFP processes, market intelligence, and compliance vetting. Use when managing carriers, negotiating rates, evaluating carrier performance, or building freight strategies.",
+      "category": "security",
+      "tags": [
+        "carrier",
+        "relationship"
+      ],
+      "triggers": [
+        "carrier",
+        "relationship",
+        "codified",
+        "expertise",
+        "managing",
+        "portfolios",
+        "negotiating",
+        "freight",
+        "rates",
+        "tracking",
+        "performance",
+        "allocating"
+      ],
+      "path": "skills/carrier-relationship-management/SKILL.md"
+    },
+    {
       "id": "cc-skill-backend-patterns",
       "name": "cc-skill-backend-patterns",
       "description": "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.",
@@ -7157,6 +7259,32 @@
       "path": "skills/customer-support/SKILL.md"
     },
     {
+      "id": "customs-trade-compliance",
+      "name": "customs-trade-compliance",
+      "description": "Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple jurisdictions. Informed by trade compliance specialists with 15+ years experience. Includes HS classification logic, Incoterms application, FTA utilisation, and penalty mitigation. Use when handling customs clearance, tariff classification, trade compliance, import/export documentation, or duty optimisation.",
+      "category": "security",
+      "tags": [
+        "customs",
+        "trade",
+        "compliance"
+      ],
+      "triggers": [
+        "customs",
+        "trade",
+        "compliance",
+        "codified",
+        "expertise",
+        "documentation",
+        "tariff",
+        "classification",
+        "duty",
+        "optimisation",
+        "restricted",
+        "party"
+      ],
+      "path": "skills/customs-trade-compliance/SKILL.md"
+    },
+    {
       "id": "daily-news-report",
       "name": "daily-news-report",
       "description": "Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports.",
@@ -8728,6 +8856,31 @@
         "agreements"
       ],
       "path": "skills/employment-contract-templates/SKILL.md"
+    },
+    {
+      "id": "energy-procurement",
+      "name": "energy-procurement",
+      "description": "Codified expertise for electricity and gas procurement, tariff optimisation, demand charge management, renewable PPA evaluation, and multi-facility energy cost management. Informed by energy procurement managers with 15+ years experience at large commercial and industrial consumers. Includes market structure analysis, hedging strategies, load profiling, and sustainability reporting frameworks. Use when procuring energy, optimising tariffs, managing demand charges, evaluating PPAs, or developing energy strategies.",
+      "category": "business",
+      "tags": [
+        "energy",
+        "procurement"
+      ],
+      "triggers": [
+        "energy",
+        "procurement",
+        "codified",
+        "expertise",
+        "electricity",
+        "gas",
+        "tariff",
+        "optimisation",
+        "demand",
+        "charge",
+        "renewable",
+        "ppa"
+      ],
+      "path": "skills/energy-procurement/SKILL.md"
     },
     {
       "id": "environment-setup-guide",
@@ -11002,6 +11155,31 @@
       "path": "skills/graphql-architect/SKILL.md"
     },
     {
+      "id": "grpc-golang",
+      "name": "grpc-golang",
+      "description": "Build production-ready gRPC services in Go with mTLS, streaming, and observability. Use when designing Protobuf contracts with Buf or implementing secure service-to-service transport.",
+      "category": "security",
+      "tags": [
+        "grpc",
+        "golang"
+      ],
+      "triggers": [
+        "grpc",
+        "golang",
+        "go",
+        "mtls",
+        "streaming",
+        "observability",
+        "designing",
+        "protobuf",
+        "contracts",
+        "buf",
+        "implementing",
+        "secure"
+      ],
+      "path": "skills/grpc-golang/SKILL.md"
+    },
+    {
       "id": "haskell-pro",
       "name": "haskell-pro",
       "description": "Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reliability software. Use PROACTIVELY for type-level programming, concurrency, and architecture guidance.",
@@ -11857,6 +12035,32 @@
       "path": "skills/internal-comms-community/SKILL.md"
     },
     {
+      "id": "inventory-demand-planning",
+      "name": "inventory-demand-planning",
+      "description": "Codified expertise for demand forecasting, safety stock optimisation, replenishment planning, and promotional lift estimation at multi-location retailers. Informed by demand planners with 15+ years experience managing hundreds of SKUs. Includes forecasting method selection, ABC/XYZ analysis, seasonal transition management, and vendor negotiation frameworks. Use when forecasting demand, setting safety stock, planning replenishment, managing promotions, or optimising inventory levels.",
+      "category": "general",
+      "tags": [
+        "inventory",
+        "demand",
+        "planning"
+      ],
+      "triggers": [
+        "inventory",
+        "demand",
+        "planning",
+        "codified",
+        "expertise",
+        "forecasting",
+        "safety",
+        "stock",
+        "optimisation",
+        "replenishment",
+        "promotional",
+        "lift"
+      ],
+      "path": "skills/inventory-demand-planning/SKILL.md"
+    },
+    {
       "id": "ios-developer",
       "name": "ios-developer",
       "description": "Develop native iOS applications with Swift/SwiftUI. Masters iOS 18,",
@@ -12661,6 +12865,31 @@
       "path": "skills/linkedin-automation/SKILL.md"
     },
     {
+      "id": "linkedin-cli",
+      "name": "linkedin-cli",
+      "description": "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator.",
+      "category": "business",
+      "tags": [
+        "linkedin",
+        "cli"
+      ],
+      "triggers": [
+        "linkedin",
+        "cli",
+        "automating",
+        "via",
+        "fetch",
+        "profiles",
+        "search",
+        "people",
+        "companies",
+        "send",
+        "messages",
+        "connections"
+      ],
+      "path": "skills/linkedin-cli/SKILL.md"
+    },
+    {
       "id": "linkerd-patterns",
       "name": "linkerd-patterns",
       "description": "Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. Use when setting up Linkerd, configuring traffic policies, or implementing zero-trust networking ...",
@@ -12913,6 +13142,31 @@
         "ai"
       ],
       "path": "skills/llm-evaluation/SKILL.md"
+    },
+    {
+      "id": "logistics-exception-management",
+      "name": "logistics-exception-management",
+      "description": "Codified expertise for handling freight exceptions, shipment delays, damages, losses, and carrier disputes. Informed by logistics professionals with 15+ years operational experience. Includes escalation protocols, carrier-specific behaviours, claims procedures, and judgment frameworks. Use when handling shipping exceptions, freight claims, delivery issues, or carrier disputes.",
+      "category": "general",
+      "tags": [
+        "logistics",
+        "exception"
+      ],
+      "triggers": [
+        "logistics",
+        "exception",
+        "codified",
+        "expertise",
+        "handling",
+        "freight",
+        "exceptions",
+        "shipment",
+        "delays",
+        "damages",
+        "losses",
+        "carrier"
+      ],
+      "path": "skills/logistics-exception-management/SKILL.md"
     },
     {
       "id": "loki-mode",
@@ -15662,6 +15916,31 @@
       "path": "skills/production-code-audit/SKILL.md"
     },
     {
+      "id": "production-scheduling",
+      "name": "production-scheduling",
+      "description": "Codified expertise for production scheduling, job sequencing, line balancing, changeover optimisation, and bottleneck resolution in discrete and batch manufacturing. Informed by production schedulers with 15+ years experience. Includes TOC/drum-buffer-rope, SMED, OEE analysis, disruption response frameworks, and ERP/MES interaction patterns. Use when scheduling production, resolving bottlenecks, optimising changeovers, responding to disruptions, or balancing manufacturing lines.",
+      "category": "architecture",
+      "tags": [
+        "production",
+        "scheduling"
+      ],
+      "triggers": [
+        "production",
+        "scheduling",
+        "codified",
+        "expertise",
+        "job",
+        "sequencing",
+        "line",
+        "balancing",
+        "changeover",
+        "optimisation",
+        "bottleneck",
+        "resolution"
+      ],
+      "path": "skills/production-scheduling/SKILL.md"
+    },
+    {
       "id": "programmatic-seo",
       "name": "programmatic-seo",
       "description": ">",
@@ -16084,6 +16363,31 @@
         "up"
       ],
       "path": "skills/python-testing-patterns/SKILL.md"
+    },
+    {
+      "id": "quality-nonconformance",
+      "name": "quality-nonconformance",
+      "description": "Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing. Informed by quality engineers with 15+ years experience across FDA, IATF 16949, and AS9100 environments. Includes NCR lifecycle management, CAPA systems, SPC interpretation, and audit methodology. Use when investigating non-conformances, performing root cause analysis, managing CAPAs, interpreting SPC data, or handling supplier quality issues.",
+      "category": "data-ai",
+      "tags": [
+        "quality",
+        "nonconformance"
+      ],
+      "triggers": [
+        "quality",
+        "nonconformance",
+        "codified",
+        "expertise",
+        "control",
+        "non",
+        "conformance",
+        "investigation",
+        "root",
+        "cause",
+        "analysis",
+        "corrective"
+      ],
+      "path": "skills/quality-nonconformance/SKILL.md"
     },
     {
       "id": "quant-analyst",
@@ -16662,6 +16966,32 @@
         "flair"
       ],
       "path": "skills/research-engineer/SKILL.md"
+    },
+    {
+      "id": "returns-reverse-logistics",
+      "name": "returns-reverse-logistics",
+      "description": "Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management. Informed by returns operations managers with 15+ years experience. Includes grading frameworks, disposition economics, fraud pattern recognition, and vendor recovery processes. Use when handling product returns, reverse logistics, refund decisions, return fraud detection, or warranty claims.",
+      "category": "business",
+      "tags": [
+        "returns",
+        "reverse",
+        "logistics"
+      ],
+      "triggers": [
+        "returns",
+        "reverse",
+        "logistics",
+        "codified",
+        "expertise",
+        "authorisation",
+        "receipt",
+        "inspection",
+        "disposition",
+        "decisions",
+        "refund",
+        "processing"
+      ],
+      "path": "skills/returns-reverse-logistics/SKILL.md"
     },
     {
       "id": "reverse-engineer",

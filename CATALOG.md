@@ -2,9 +2,9 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 931
+Total skills: 944
 
-## architecture (64)
+## architecture (65)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -55,6 +55,7 @@ Total skills: 931
 | `parallel-agents` | Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multi... | parallel, agents | parallel, agents, multi, agent, orchestration, multiple, independent, tasks, run, different, domain, expertise |
 | `powershell-windows` | PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling. | powershell, windows | powershell, windows, critical, pitfalls, operator, syntax, error, handling |
 | `production-code-audit` | Autonomously deep-scan entire codebase line-by-line, understand architecture and patterns, then systematically transform it to production-grade, corporate-le... | production, code, audit | production, code, audit, autonomously, deep, scan, entire, codebase, line, understand, architecture, then |
+| `production-scheduling` | Codified expertise for production scheduling, job sequencing, line balancing, changeover optimisation, and bottleneck resolution in discrete and batch manufa... | production, scheduling | production, scheduling, codified, expertise, job, sequencing, line, balancing, changeover, optimisation, bottleneck, resolution |
 | `projection-patterns` | Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in ... | projection | projection, read, models, projections, event, streams, implementing, cqrs, sides, building, materialized, views |
 | `prompt-engineering` | Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies,... | prompt, engineering | prompt, engineering, optimization, techniques, user, wants, improve, prompts, learn, prompting, debug, agent |
 | `radix-ui-design-system` | Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for productio... | radix, ui | radix, ui, accessible, primitives, headless, component, customization, theming, compound, grade, libraries |
@@ -73,7 +74,7 @@ Total skills: 931
 | `workflow-patterns` | Use this skill when implementing tasks according to Conductor's TDD |  | skill, implementing, tasks, according, conductor, tdd |
 | `zapier-make-patterns` | No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code.... | zapier, make | zapier, make, no, code, automation, democratizes, building, formerly, integromat, let, non, developers |
 
-## business (39)
+## business (42)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -85,15 +86,18 @@ Total skills: 931
 | `defi-protocol-templates` | Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applicat... | defi, protocol | defi, protocol, protocols, staking, amms, governance, lending, building, decentralized, finance, applications, smart |
 | `email-systems` | Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, ... | email | email, highest, roi, any, marketing, channel, 36, every, spent, yet, most, startups |
 | `employment-contract-templates` | Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR poli... | employment, contract | employment, contract, contracts, offer, letters, hr, policy, documents, following, legal, drafting, agreements |
+| `energy-procurement` | Codified expertise for electricity and gas procurement, tariff optimisation, demand charge management, renewable PPA evaluation, and multi-facility energy co... | energy, procurement | energy, procurement, codified, expertise, electricity, gas, tariff, optimisation, demand, charge, renewable, ppa |
 | `framework-migration-legacy-modernize` | Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintainin... | framework, migration, legacy, modernize | framework, migration, legacy, modernize, orchestrate, modernization, strangler, fig, enabling, gradual, replacement, outdated |
 | `free-tool-strategy` | When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user m... | free | free, user, wants, plan, evaluate, marketing, purposes, lead, generation, seo, value, brand |
 | `hr-pro` | Professional, ethical HR partner for hiring, | hr | hr, pro, professional, ethical, partner, hiring |
+| `linkedin-cli` | Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator. | linkedin, cli | linkedin, cli, automating, via, fetch, profiles, search, people, companies, send, messages, connections |
 | `market-sizing-analysis` | This skill should be used when the user asks to \"calculate TAM\", | market, sizing | market, sizing, analysis, skill, should, used, user, asks, calculate, tam |
 | `marketing-ideas` | Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system. | marketing, ideas | marketing, ideas, provide, proven, growth, saas, software, products, prioritized, feasibility, scoring |
 | `marketing-psychology` | Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system. | marketing, psychology | marketing, psychology, apply, behavioral, science, mental, models, decisions, prioritized, psychological, leverage, feasibility |
 | `notion-template-business` | Expert in building and selling Notion templates as a business - not just making templates, but building a sustainable digital product business. Covers templa... | notion, business | notion, business, building, selling, just, making, sustainable, digital, product, covers, pricing, marketplaces |
 | `pricing-strategy` | Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives. | pricing | pricing, packaging, monetization, value, customer, willingness, pay, growth, objectives |
 | `programmatic-seo` | > | programmatic, seo | programmatic, seo |
+| `returns-reverse-logistics` | Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims manageme... | returns, reverse, logistics | returns, reverse, logistics, codified, expertise, authorisation, receipt, inspection, disposition, decisions, refund, processing |
 | `sales-automator` | Draft cold emails, follow-ups, and proposal templates. Creates | sales, automator | sales, automator, draft, cold, emails, follow, ups, proposal, creates |
 | `screenshots` | Generate marketing screenshots of your app using Playwright. Use when the user wants to create screenshots for Product Hunt, social media, landing pages, or ... | screenshots | screenshots, generate, marketing, app, playwright, user, wants, product, hunt, social, media, landing |
 | `scroll-experience` | Expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, interactive narratives, and cinematic web experiences. Lik... | scroll, experience | scroll, experience, building, immersive, driven, experiences, parallax, storytelling, animations, interactive, narratives, cinematic |
@@ -117,7 +121,7 @@ Total skills: 931
 | `startup-metrics-framework` | This skill should be used when the user asks about \"key startup | startup, metrics, framework | startup, metrics, framework, skill, should, used, user, asks, about, key |
 | `whatsapp-automation` | Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for c... | whatsapp | whatsapp, automation, automate, business, tasks, via, rube, mcp, composio, send, messages, upload |
 
-## data-ai (152)
+## data-ai (154)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -135,6 +139,7 @@ Total skills: 931
 | `analytics-tracking` | > | analytics, tracking | analytics, tracking |
 | `angular-ui-patterns` | Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component ... | angular, ui | angular, ui, loading, states, error, handling, data, display, building, components, async, managing |
 | `api-documenter` | Master API documentation with OpenAPI 3.1, AI-powered tools, and | api, documenter | api, documenter, documentation, openapi, ai, powered |
+| `appdeploy` | Deploy web apps with backend APIs, database, and file storage. Use when the user asks to deploy or publish a website or web app and wants a public URL. Uses ... | appdeploy | appdeploy, deploy, web, apps, backend, apis, database, file, storage, user, asks, publish |
 | `audio-transcriber` | Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration | audio, transcription, whisper, meeting-minutes, speech-to-text | audio, transcription, whisper, meeting-minutes, speech-to-text, transcriber, transform, recordings, professional, markdown, documentation, intelligent |
 | `autonomous-agent-patterns` | Design patterns for building autonomous coding agents. Covers tool integration, permission systems, browser automation, and human-in-the-loop workflows. Use ... | autonomous, agent | autonomous, agent, building, coding, agents, covers, integration, permission, browser, automation, human, loop |
 | `autonomous-agents` | Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The c... | autonomous, agents | autonomous, agents, ai, independently, decompose, goals, plan, actions, execute, self, correct, without |
@@ -243,6 +248,7 @@ Total skills: 931
 | `prompt-caching` | Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Cache Augmented Generation) Use when: prompt caching, cache... | prompt, caching | prompt, caching, llm, prompts, including, anthropic, response, cag, cache, augmented, generation, augm |
 | `prompt-engineering-patterns` | Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, impro... | prompt, engineering | prompt, engineering, techniques, maximize, llm, performance, reliability, controllability, optimizing, prompts, improving, outputs |
 | `pydantic-models-py` | Create Pydantic models following the multi-model pattern with Base, Create, Update, Response, and InDB variants. Use when defining API request/response schem... | pydantic, models, py | pydantic, models, py, following, multi, model, base, update, response, indb, variants, defining |
+| `quality-nonconformance` | Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated m... | quality, nonconformance | quality, nonconformance, codified, expertise, control, non, conformance, investigation, root, cause, analysis, corrective |
 | `rag-engineer` | Expert in building Retrieval-Augmented Generation systems. Masters embedding models, vector databases, chunking strategies, and retrieval optimization for LL... | rag | rag, engineer, building, retrieval, augmented, generation, masters, embedding, models, vector, databases, chunking |
 | `rag-implementation` | RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimiza... | rag | rag, retrieval, augmented, generation, covering, embedding, selection, vector, database, setup, chunking, optimization |
 | `react-ui-patterns` | Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states. | react, ui | react, ui, loading, states, error, handling, data, fetching, building, components, async, managing |
@@ -429,10 +435,12 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 | `zustand-store-ts` | Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation. Use when building React state management, creati... | zustand, store, ts | zustand, store, ts, stores, typescript, subscribewithselector, middleware, proper, state, action, separation, building |
 
-## general (217)
+## general (221)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
+| `00-andruia-consultant` | Arquitecto de Soluciones Principal y Consultor Tecnológico de Andru.ia. Diagnostica y traza la hoja de ruta óptima para proyectos de IA en español. | 00, andruia, consultant | 00, andruia, consultant, arquitecto, de, soluciones, principal, consultor, tecnol, gico, andru, ia |
+| `20-andruia-niche-intelligence` | Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho específico de un proyecto para inyectar conocimientos, regulaciones y estándares únicos de... | 20, andruia, niche, intelligence | 20, andruia, niche, intelligence, estratega, de, inteligencia, dominio, andru, ia, analiza, el |
 | `address-github-comments` | Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI. | address, github, comments | address, github, comments, review, issue, open, pull, request, gh, cli |
 | `agent-manager-skill` | Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling. | agent, manager, skill | agent, manager, skill, multiple, local, cli, agents, via, tmux, sessions, start, stop |
 | `algorithmic-art` | Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, gener... | algorithmic, art | algorithmic, art, creating, p5, js, seeded, randomness, interactive, parameter, exploration, users, request |
@@ -569,6 +577,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `interactive-portfolio` | Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, d... | interactive, portfolio | interactive, portfolio, building, portfolios, actually, land, jobs, clients, just, showing, work, creating |
 | `internal-comms-anthropic` | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenev... | internal, comms, anthropic | internal, comms, anthropic, set, resources, me, write, all, kinds, communications, formats, my |
 | `internal-comms-community` | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenev... | internal, comms, community | internal, comms, community, set, resources, me, write, all, kinds, communications, formats, my |
+| `inventory-demand-planning` | Codified expertise for demand forecasting, safety stock optimisation, replenishment planning, and promotional lift estimation at multi-location retailers. In... | inventory, demand, planning | inventory, demand, planning, codified, expertise, forecasting, safety, stock, optimisation, replenishment, promotional, lift |
 | `julia-pro` | Master Julia 1.10+ with modern features, performance optimization, | julia | julia, pro, 10, features, performance, optimization |
 | `last30days` | Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool. | last30days | last30days, research, topic, last, 30, days, reddit, web, become, write, copy, paste |
 | `legacy-modernizer` | Refactor legacy codebases, migrate outdated frameworks, and | legacy, modernizer | legacy, modernizer, refactor, codebases, migrate, outdated, frameworks |
@@ -576,6 +585,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `lint-and-validate` | Automatic quality control, linting, and static analysis procedures. Use after every code modification to ensure syntax correctness and project standards. Tri... | lint, and, validate | lint, and, validate, automatic, quality, control, linting, static, analysis, procedures, after, every |
 | `linux-privilege-escalation` | This skill should be used when the user asks to "escalate privileges on Linux", "find privesc vectors on Linux systems", "exploit sudo misconfigurations", "a... | linux, privilege, escalation | linux, privilege, escalation, skill, should, used, user, asks, escalate, privileges, find, privesc |
 | `linux-shell-scripting` | This skill should be used when the user asks to "create bash scripts", "automate Linux tasks", "monitor system resources", "backup files", "manage users", or... | linux, shell, scripting | linux, shell, scripting, skill, should, used, user, asks, bash, scripts, automate, tasks |
+| `logistics-exception-management` | Codified expertise for handling freight exceptions, shipment delays, damages, losses, and carrier disputes. Informed by logistics professionals with 15+ year... | logistics, exception | logistics, exception, codified, expertise, handling, freight, exceptions, shipment, delays, damages, losses, carrier |
 | `m365-agents-py` | \| | m365, agents, py | m365, agents, py |
 | `m365-agents-ts` | \| | m365, agents, ts | m365, agents, ts |
 | `mcp-builder` | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use whe... | mcp, builder | mcp, builder, creating, high, quality, model, context, protocol, servers, enable, llms, interact |
@@ -748,7 +758,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `wireshark-analysis` | This skill should be used when the user asks to "analyze network traffic with Wireshark", "capture packets for troubleshooting", "filter PCAP files", "follow... | wireshark | wireshark, analysis, skill, should, used, user, asks, analyze, network, traffic, capture, packets |
 | `workflow-automation` | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost... |  | automation, infrastructure, makes, ai, agents, reliable, without, durable, execution, network, hiccup, during |
 
-## security (100)
+## security (103)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -771,12 +781,14 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `backend-security-coder` | Expert in secure backend coding practices specializing in input | backend, security, coder | backend, security, coder, secure, coding, specializing, input |
 | `broken-authentication` | This skill should be used when the user asks to "test for broken authentication vulnerabilities", "assess session management security", "perform credential s... | broken, authentication | broken, authentication, skill, should, used, user, asks, test, vulnerabilities, assess, session, security |
 | `burp-suite-testing` | This skill should be used when the user asks to "intercept HTTP traffic", "modify web requests", "use Burp Suite for testing", "perform web vulnerability sca... | burp, suite | burp, suite, testing, skill, should, used, user, asks, intercept, http, traffic, modify |
+| `carrier-relationship-management` | Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic ca... | carrier, relationship | carrier, relationship, codified, expertise, managing, portfolios, negotiating, freight, rates, tracking, performance, allocating |
 | `cc-skill-security-review` | Use this skill when adding authentication, handling user input, working with secrets, creating API endpoints, or implementing payment/sensitive features. Pro... | cc, skill, security | cc, skill, security, review, adding, authentication, handling, user, input, working, secrets, creating |
 | `clerk-auth` | Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentic... | clerk, auth | clerk, auth, middleware, organizations, webhooks, user, sync, adding, authentication, sign, up |
 | `cloud-penetration-testing` | This skill should be used when the user asks to "perform cloud penetration testing", "assess Azure or AWS or GCP security", "enumerate cloud resources", "exp... | cloud, penetration | cloud, penetration, testing, skill, should, used, user, asks, perform, assess, azure, aws |
 | `code-review-checklist` | Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability | code, checklist | code, checklist, review, conducting, thorough, reviews, covering, functionality, security, performance, maintainability |
 | `code-reviewer` | Elite code review expert specializing in modern AI-powered code analysis, security vulnerabilities, performance optimization, and production reliability. Mas... | code | code, reviewer, elite, review, specializing, ai, powered, analysis, security, vulnerabilities, performance, optimization |
 | `codebase-cleanup-deps-audit` | You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ... | codebase, cleanup, deps, audit | codebase, cleanup, deps, audit, dependency, security, specializing, vulnerability, scanning, license, compliance, supply |
+| `customs-trade-compliance` | Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple... | customs, trade, compliance | customs, trade, compliance, codified, expertise, documentation, tariff, classification, duty, optimisation, restricted, party |
 | `database-migration` | Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databas... | database, migration | database, migration, execute, migrations, orms, platforms, zero, downtime, data, transformation, rollback, procedures |
 | `database-migrations-sql-migrations` | SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans. | database, migrations, sql | database, migrations, sql, zero, downtime, postgresql, mysql, server, data, integrity, rollback, plans |
 | `dependency-management-deps-audit` | You are a dependency security expert specializing in vulnerability scanning, license compliance, and supply chain security. Analyze project dependencies for ... | dependency, deps, audit | dependency, deps, audit, security, specializing, vulnerability, scanning, license, compliance, supply, chain, analyze |
@@ -792,6 +804,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `frontend-mobile-security-xss-scan` | You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention. Analyze React, Vue, Angular, and vanill... | frontend, mobile, security, xss, scan | frontend, mobile, security, xss, scan, focusing, cross, site, scripting, vulnerability, detection, prevention |
 | `frontend-security-coder` | Expert in secure frontend coding practices specializing in XSS | frontend, security, coder | frontend, security, coder, secure, coding, specializing, xss |
 | `gdpr-data-handling` | Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by design. Use when building systems that process EU persona... | gdpr, data, handling | gdpr, data, handling, compliant, consent, subject, rights, privacy, building, process, eu, personal |
+| `grpc-golang` | Build production-ready gRPC services in Go with mTLS, streaming, and observability. Use when designing Protobuf contracts with Buf or implementing secure ser... | grpc, golang | grpc, golang, go, mtls, streaming, observability, designing, protobuf, contracts, buf, implementing, secure |
 | `incident-responder` | Expert SRE incident responder specializing in rapid problem | incident, responder | incident, responder, sre, specializing, rapid, problem |
 | `incident-response-incident-response` | Use when working with incident response incident response | incident, response | incident, response, working |
 | `incident-response-smart-fix` | [Extended thinking: This workflow implements a sophisticated debugging and resolution pipeline that leverages AI-assisted debugging tools and observability p... | incident, response, fix | incident, response, fix, smart, extended, thinking, implements, sophisticated, debugging, resolution, pipeline, leverages |
