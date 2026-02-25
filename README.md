@@ -256,13 +256,9 @@ Install to the tool-specific path. Use installer flags: `--antigravity` (default
 
 ### Update an existing installation
 
-```bash
-# If you used the default installer (Antigravity global):
-git -C ~/.gemini/antigravity/skills pull
+**Good news!** You no longer need to manually run `git pull` or `npx antigravity-awesome-skills` to update your skills.
 
-# If you installed to a custom path (e.g. ~/.agent/skills):
-git -C ~/.agent/skills pull
-```
+Simply double-click **`START_APP.bat`** (or run it in your terminal). It will automatically fetch and merge the latest skills from the original repository every time you open the Web App, ensuring you always have the most up-to-date catalog!
 
 ### Reinstall from scratch
 
@@ -360,6 +356,13 @@ You can now easily search, filter, and discover the perfect skills for your agen
 To launch the app:
 1. Double-click the `START_APP.bat` file in the root directory (Windows) or run it from your terminal.
 2. The app will automatically configure everything and open in your default browser.
+
+#### 🛠️ New: Interactive Prompt Builder
+The web app is no longer just a static catalog! When you click on any skill, you will see an **Interactive Prompt Builder** box.
+Instead of manually copying `@skill-name` and writing your requirements separately in your IDE:
+1. Type your specific project constraints into the text box (e.g., "Use React 19 and Tailwind").
+2. Click **Copy Prompt**.
+3. Your clipboard now has a fully formatted, ready-to-run prompt combining the skill invocation and your custom context!
 
 👉 **[View the Complete Skill Catalog (CATALOG.md)](CATALOG.md)**
 
