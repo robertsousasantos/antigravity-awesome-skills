@@ -56,11 +56,11 @@ This repository provides essential skills to transform your AI assistant into a 
 
 ## New Here? Start Here!
 
-**Welcome to the V6.2.0 Interactive Web Edition.** This isn't just a list of scripts; it's a complete operating system for your AI Agent.
+**Welcome to the V6.3.1 Interactive Web Edition.** This isn't just a list of scripts; it's a complete operating system for your AI Agent.
 
 ### 1. 🐣 Context: What is this?
 
-**Antigravity Awesome Skills** (Release 6.2.0) is a massive upgrade to your AI's capabilities.
+**Antigravity Awesome Skills** (Release 6.3.1) is a massive upgrade to your AI's capabilities.
 
 AI Agents (like Claude Code, Cursor, or Gemini) are smart, but they lack **specific tools**. They don't know your company's "Deployment Protocol" or the specific syntax for "AWS CloudFormation".
 **Skills** are small markdown files that teach them how to do these specific tasks perfectly, every time.
@@ -108,13 +108,13 @@ Once installed, just ask your agent naturally:
 
 These skills follow the universal **SKILL.md** format and work with any AI coding assistant that supports agentic skills.
 
-| Tool            | Type | Invocation Example                | Path              |
-| :-------------- | :--- | :-------------------------------- | :---------------- |
-| **Claude Code** | CLI  | `>> /skill-name help me...`       | `.claude/skills/` |
-| **Gemini CLI**  | CLI  | `(User Prompt) Use skill-name...` | `.gemini/skills/` |
-| **Codex CLI**   | CLI  | `(User Prompt) Use skill-name...` | `.codex/skills/`  |
-| **Kiro CLI**    | CLI  | `(Auto) Skills load on-demand`    | Global: `~/.kiro/skills/` · Workspace: `.kiro/skills/` |
-| **Kiro IDE**    | IDE  | `/skill-name or (Auto)`           | Global: `~/.kiro/skills/` · Workspace: `.kiro/skills/` |
+| Tool            | Type | Invocation Example                | Path                                                                  |
+| :-------------- | :--- | :-------------------------------- | :-------------------------------------------------------------------- |
+| **Claude Code** | CLI  | `>> /skill-name help me...`       | `.claude/skills/`                                                     |
+| **Gemini CLI**  | CLI  | `(User Prompt) Use skill-name...` | `.gemini/skills/`                                                     |
+| **Codex CLI**   | CLI  | `(User Prompt) Use skill-name...` | `.codex/skills/`                                                      |
+| **Kiro CLI**    | CLI  | `(Auto) Skills load on-demand`    | Global: `~/.kiro/skills/` · Workspace: `.kiro/skills/`                |
+| **Kiro IDE**    | IDE  | `/skill-name or (Auto)`           | Global: `~/.kiro/skills/` · Workspace: `.kiro/skills/`                |
 | **Antigravity** | IDE  | `(Agent Mode) Use skill...`       | Global: `~/.gemini/antigravity/skills/` · Workspace: `.agent/skills/` |
 | **Cursor**      | IDE  | `@skill-name (in Chat)`           | `.cursor/skills/`                                                     |
 | **Copilot**     | Ext  | `(Paste content manually)`        | N/A                                                                   |
@@ -273,7 +273,7 @@ npx antigravity-awesome-skills
 
 **Bundles** are curated groups of skills for a specific role or goal (for example: `Web Wizard`, `Security Engineer`, `OSS Maintainer`).
 
-They help you avoid picking from 927+ skills one by one.
+They help you avoid picking from 946+ skills one by one.
 
 ### ⚠️ Important: Bundles Are NOT Separate Installations!
 
@@ -354,12 +354,15 @@ We have moved the full skill registry to a dedicated catalog to keep this README
 You can now easily search, filter, and discover the perfect skills for your agent using our local Web App.
 
 To launch the app:
+
 1. Double-click the `START_APP.bat` file in the root directory (Windows) or run it from your terminal.
 2. The app will automatically configure everything and open in your default browser.
 
 #### 🛠️ New: Interactive Prompt Builder
+
 The web app is no longer just a static catalog! When you click on any skill, you will see an **Interactive Prompt Builder** box.
 Instead of manually copying `@skill-name` and writing your requirements separately in your IDE:
+
 1. Type your specific project constraints into the text box (e.g., "Use React 19 and Tailwind").
 2. Click **Copy Prompt**.
 3. Your clipboard now has a fully formatted, ready-to-run prompt combining the skill invocation and your custom context!

@@ -505,6 +505,8 @@ This release significantly upgrades our 3D visualization capabilities with a com
 
 ---
 
+## [5.2.0] - 2026-02-13 - "Podcast Generation & Azure AI Skills"
+
 > **New AI capabilities: Podcast Generation, Azure Identity, and Self-Evolving Agents.**
 
 ### Added
